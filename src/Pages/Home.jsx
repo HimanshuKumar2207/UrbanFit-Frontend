@@ -1,7 +1,7 @@
 import BestSeller from "../Components/BestSeller";
-import Hero from "../Components/Hero";
+import Hero from "../components/Hero";
 import LatestCollection from "../Components/LatestCollection";
-import NewsLetterBox from "../Components/NewsLetterBox";
+import NewsLetterBox from "../components/NewsLetterBox";
 import OurPolicies from "../components/OurPolicy";
 
 const Home = () => {

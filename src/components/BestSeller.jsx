@@ -1,6 +1,6 @@
 import { useContext, useEffect, useState } from "react";
 import { ShopContext } from "../context/ShopContext"; // Importing the ShopContext to access the global state of the shop
-import Title from "./Title"; // Importing the Title component
+import Title from "../components/Title"; // Importing the Title component
 import ProductItem from "../components/ProductItem"; // Importing the ProductItem component
 
 const BestSeller = () => {

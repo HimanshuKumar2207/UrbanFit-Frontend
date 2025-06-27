@@ -14,9 +14,7 @@ node_modules/
 dist/
 dist-ssr/
 
-# Local environment files
-.env
-.env.*  # to ignore files like .env.local, .env.production, etc.
+
 
 # System files
 *.local

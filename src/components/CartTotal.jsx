@@ -1,6 +1,6 @@
 import { useContext } from "react";
 import { ShopContext } from "../context/ShopContext";
-import Title from "./Title";
+import Title from "../components/Title";
 
 const CartTotal = () => {
     // Destructure necessary values from ShopContext
