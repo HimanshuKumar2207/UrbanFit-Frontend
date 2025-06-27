@@ -1,6 +1,6 @@
-import BestSeller from "../Components/BestSeller";
+import BestSeller from "../components/BestSeller";
 import Hero from "../components/Hero";
-import LatestCollection from "../Components/LatestCollection";
+import LatestCollection from "../components/LatestCollection";
 import NewsLetterBox from "../components/NewsLetterBox";
 import OurPolicies from "../components/OurPolicy";
 
