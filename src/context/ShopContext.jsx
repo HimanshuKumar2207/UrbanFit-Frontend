@@ -11,7 +11,7 @@ const ShopContextProvider = (props) => {
   // Static data related to the shop
   const currency = "$"; // Default currency
   const delivery_fee = 10; // Standard delivery fee
-  const backendUrl = import.meta.env.VITE_BACKEND_URL;
+  const backendUrl = 'https://urbanfit-backend.onrender.com';
   // State for search functionality
   const [search, setSearch] = useState(""); // Stores the search query
   const [showSearch, setShowSearch] = useState(false); // Controls the visibility of the search bar
